@@ -2,8 +2,8 @@
 Link to Page: https://plutocoders.github.io/passwordGen3/
 
 ## The repo files are structured in this manner
-Develop folder contains three files.
-- An index.html file, a style.css file, and a script.js file.
+Develop folder contains files.
+- a style.css file, and a script.js file.
 - the script.js file contains the project code, and is commented out explaining what i'm trying to do in each section.
 
 ## Credits
