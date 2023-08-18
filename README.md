@@ -20,3 +20,4 @@ Develop folder contains files.
 - An example of how I used chat gpt: "Can you write out all the letters in the english alphabet, in lower case, with each letter in quotes?" (This helped me make the arrays much faster)
 - I also had help during office hours after class from the TA and Professor.
 - I had a tutor session with Armando to help me fix up my errors and resubmit the assignment for a better great.
+- I am going to youtube stuff to improve this later!
